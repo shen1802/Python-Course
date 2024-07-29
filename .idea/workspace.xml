@@ -5,21 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="351f3600-d4ae-4fe4-9db7-0cbecde1cfdb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_4/animals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_4/buffet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_4/counting_to_twenty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_4/cubes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_4/more_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_4/my_pizzas_your_pizzas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_4/odd_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_4/one_million.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_4/pizzas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_4/slices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_4/summing_a_million.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_4/threes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python-Course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_5/alien_color_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_5/alien_colors_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_5/alien_colors_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_5/checking_usernames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_5/favourite_fruit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_5/hello_admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_5/ordinal_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_5/stages_of_life.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +45,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.alien_colors.executor": "Run",
     "Python.animals.executor": "Run",
+    "Python.buffet.executor": "Run",
+    "Python.checking_usernames.executor": "Run",
     "Python.counting_to_twenty.executor": "Run",
     "Python.cubes.executor": "Run",
+    "Python.favourite_fruit.executor": "Run",
+    "Python.hello_admin.executor": "Run",
     "Python.more_loops.executor": "Run",
     "Python.my_pizzas_your_pizzas.executor": "Run",
     "Python.odd_numbers.executor": "Run",
     "Python.one_million.executor": "Run",
+    "Python.ordinal_numbers.executor": "Run",
     "Python.pizzas.executor": "Run",
     "Python.slices.executor": "Run",
+    "Python.stages_of_life.executor": "Run",
     "Python.summing_a_million.executor": "Run",
     "Python.threes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -92,7 +94,7 @@
       <updated>1722116522104</updated>
       <workItem from="1722116523180" duration="1501000" />
       <workItem from="1722248168983" duration="1767000" />
-      <workItem from="1722279022957" duration="2708000" />
+      <workItem from="1722279022957" duration="6254000" />
     </task>
     <servers />
   </component>
@@ -101,15 +103,22 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Course$slices.coverage" NAME="slices Coverage Results" MODIFIED="1722280361894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
-    <SUITE FILE_PATH="coverage/Python_Course$my_pizzas_your_pizzas.coverage" NAME="my_pizzas_your_pizzas Coverage Results" MODIFIED="1722280581175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
-    <SUITE FILE_PATH="coverage/Python_Course$animals.coverage" NAME="animals Coverage Results" MODIFIED="1722248719550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
-    <SUITE FILE_PATH="coverage/Python_Course$one_million.coverage" NAME="one_million Coverage Results" MODIFIED="1722279160329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
     <SUITE FILE_PATH="coverage/Python_Course$odd_numbers.coverage" NAME="odd_numbers Coverage Results" MODIFIED="1722279298657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
-    <SUITE FILE_PATH="coverage/Python_Course$more_loops.coverage" NAME="more_loops Coverage Results" MODIFIED="1722280697809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
-    <SUITE FILE_PATH="coverage/Python_Course$pizzas.coverage" NAME="pizzas Coverage Results" MODIFIED="1722248427886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
+    <SUITE FILE_PATH="coverage/Python_Course$one_million.coverage" NAME="one_million Coverage Results" MODIFIED="1722279160329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
+    <SUITE FILE_PATH="coverage/Python_Course$animals.coverage" NAME="animals Coverage Results" MODIFIED="1722248719550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
+    <SUITE FILE_PATH="coverage/Python_Course$hello_admin.coverage" NAME="hello_admin Coverage Results" MODIFIED="1722287580190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5" />
     <SUITE FILE_PATH="coverage/Python_Course$threes.coverage" NAME="threes Coverage Results" MODIFIED="1722279365148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
+    <SUITE FILE_PATH="coverage/Python_Course$alien_colors.coverage" NAME="alien_colors Coverage Results" MODIFIED="1722284946690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5" />
     <SUITE FILE_PATH="coverage/Python_Course$counting_to_twenty.coverage" NAME="counting_to_twenty Coverage Results" MODIFIED="1722279113777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
     <SUITE FILE_PATH="coverage/Python_Course$cubes.coverage" NAME="cubes Coverage Results" MODIFIED="1722279450063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
+    <SUITE FILE_PATH="coverage/Python_Course$my_pizzas_your_pizzas.coverage" NAME="my_pizzas_your_pizzas Coverage Results" MODIFIED="1722280581175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
+    <SUITE FILE_PATH="coverage/Python_Course$stages_of_life.coverage" NAME="stages_of_life Coverage Results" MODIFIED="1722285238791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5" />
+    <SUITE FILE_PATH="coverage/Python_Course$more_loops.coverage" NAME="more_loops Coverage Results" MODIFIED="1722280697809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
+    <SUITE FILE_PATH="coverage/Python_Course$buffet.coverage" NAME="buffet Coverage Results" MODIFIED="1722282138582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
+    <SUITE FILE_PATH="coverage/Python_Course$pizzas.coverage" NAME="pizzas Coverage Results" MODIFIED="1722248427886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
+    <SUITE FILE_PATH="coverage/Python_Course$ordinal_numbers.coverage" NAME="ordinal_numbers Coverage Results" MODIFIED="1722288056321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5" />
+    <SUITE FILE_PATH="coverage/Python_Course$favourite_fruit.coverage" NAME="favourite_fruit Coverage Results" MODIFIED="1722285349407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5" />
+    <SUITE FILE_PATH="coverage/Python_Course$checking_usernames.coverage" NAME="checking_usernames Coverage Results" MODIFIED="1722287870273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5" />
     <SUITE FILE_PATH="coverage/Python_Course$summing_a_million.coverage" NAME="summing_a_million Coverage Results" MODIFIED="1722279232749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
   </component>
 </project>
