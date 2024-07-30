@@ -9,3 +9,5 @@ How to define a list and perform basic operations on a list
 How to loop through a list in different ways
 ## Chapter 5 - If statements
 Introduction on how to use if, if-else, if-elif-else
+## Chapter 6 - Dictionaries
+Introduction to dictionaries
