@@ -1,0 +1,4 @@
+In Python, you can read files
+In Python, you can use OOP
+In Python, you can format string
+In Python, you can use comprehend loops
