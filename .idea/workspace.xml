@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="351f3600-d4ae-4fe4-9db7-0cbecde1cfdb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_10/addition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/addition_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/cats.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/cats_and_dogs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/dogs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/fav_num.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/favorite_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/favorite_number_remembered.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/guest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/guest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/guest_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/guest_book.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/learning_c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/learning_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/learning_python.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10/user_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_11/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_11/city_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_11/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_11/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_11/tests/test_cities.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +42,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python tests.Python tests in test_cities.py.executor": "Run",
     "Python.addition.executor": "Run",
     "Python.addition_calculator.executor": "Run",
     "Python.admin.executor": "Run",
@@ -97,6 +87,7 @@
     "Python.summing_a_million.executor": "Run",
     "Python.three_restaurants.executor": "Run",
     "Python.threes.executor": "Run",
+    "Python.user_dictionary.executor": "Run",
     "Python.users.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -111,6 +102,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/tests" />
+      <recent name="$PROJECT_DIR$/test" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -135,7 +132,7 @@
       <workItem from="1722437403078" duration="1801000" />
       <workItem from="1722441457566" duration="1820000" />
       <workItem from="1722454401881" duration="9178000" />
-      <workItem from="1723056670505" duration="5667000" />
+      <workItem from="1723056670505" duration="9681000" />
     </task>
     <servers />
   </component>
@@ -168,6 +165,8 @@
     <SUITE FILE_PATH="coverage/Python_Course$ordinal_numbers.coverage" NAME="ordinal_numbers Coverage Results" MODIFIED="1722288056321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5" />
     <SUITE FILE_PATH="coverage/Python_Course$person.coverage" NAME="person Coverage Results" MODIFIED="1722354226067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
     <SUITE FILE_PATH="coverage/Python_Course$addition.coverage" NAME="addition Coverage Results" MODIFIED="1723058065569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10" />
+    <SUITE FILE_PATH="coverage/Python_Course$user_dictionary.coverage" NAME="user_dictionary Coverage Results" MODIFIED="1723066866056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10" />
+    <SUITE FILE_PATH="coverage/Python_Course$.coverage" NAME=" Coverage Results" MODIFIED="1723103425758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_11/tests" />
     <SUITE FILE_PATH="coverage/Python_Course$checking_usernames.coverage" NAME="checking_usernames Coverage Results" MODIFIED="1722287870273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5" />
     <SUITE FILE_PATH="coverage/Python_Course$summing_a_million.coverage" NAME="summing_a_million Coverage Results" MODIFIED="1722279232749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
     <SUITE FILE_PATH="coverage/Python_Course$cats_and_dogs.coverage" NAME="cats_and_dogs Coverage Results" MODIFIED="1723063101353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10" />
