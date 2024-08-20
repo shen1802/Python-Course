@@ -1,4 +1,6 @@
 # Python Course
+
+All the exercise are from the book Python Crash Course from Eric Matthes
 ## Chapter 1 - Getting started
 A brief introduction to Python.
 ## Chapter 2 - Variables and simple data types
