@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="351f3600-d4ae-4fe4-9db7-0cbecde1cfdb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 1 - Getting started/1-2.hello_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2 - Variables and simple data types/2-1.simple_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2 - Variables and simple data types/2-2.simple_messages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python-Course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_2/famous_quote.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2 - Variables and simple data types/2-5.famous_quote.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_2/famous_quote_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2 - Variables and simple data types/2-6.famous_quote_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_2/favorite_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2 - Variables and simple data types/favorite_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_2/file_extensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2 - Variables and simple data types/2-8.file_extensions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_2/name_cases.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2 - Variables and simple data types/2-4.name_cases.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_2/number_eight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2 - Variables and simple data types/2-9.number_eight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_2/personal_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2 - Variables and simple data types/2-3.personal_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_2/stripping_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2 - Variables and simple data types/2-7.stripping_names.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
