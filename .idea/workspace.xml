@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="351f3600-d4ae-4fe4-9db7-0cbecde1cfdb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 2 - Variables and simple data types/2-11.adding_comments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_3/changing_guest_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3 - Introducing lists/3-5.changing_guest_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_3/dinner_guests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3 - Introducing lists/dinner_guests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_3/greetings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3 - Introducing lists/3-2.greetings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_3/guest_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3 - Introducing lists/3-4.guest_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_3/more_guests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3 - Introducing lists/3-6.more_guests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_3/names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3 - Introducing lists/3-1.names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_3/seeing_the_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3 - Introducing lists/seeing_the_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_3/shrinking_guest_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3 - Introducing lists/shrinking_guest_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_3/your_own_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 3 - Introducing lists/3-3.your_own_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +55,9 @@
     "Python.2-5.famous_quote.executor": "Run",
     "Python.2-6.famous_quote_2.executor": "Run",
     "Python.2-7.stripping_names.executor": "Run",
+    "Python.3-2.greetings.executor": "Run",
+    "Python.3-3.your_own_list.executor": "Run",
+    "Python.3-5.changing_guest_list.executor": "Run",
     "Python.addition.executor": "Run",
     "Python.addition_calculator.executor": "Run",
     "Python.admin.executor": "Run",
@@ -140,8 +152,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
-        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -162,6 +174,7 @@
       <workItem from="1722441457566" duration="1820000" />
       <workItem from="1722454401881" duration="9178000" />
       <workItem from="1723056670505" duration="9681000" />
+      <workItem from="1724234741076" duration="1197000" />
     </task>
     <servers />
   </component>
@@ -176,8 +189,9 @@
     <SUITE FILE_PATH="coverage/Python_Course$threes.coverage" NAME="threes Coverage Results" MODIFIED="1722279365148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
     <SUITE FILE_PATH="coverage/Python_Course$polling.coverage" NAME="polling Coverage Results" MODIFIED="1722371450907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
     <SUITE FILE_PATH="coverage/Python_Course$admin.coverage" NAME="admin Coverage Results" MODIFIED="1722458411927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9" />
-    <SUITE FILE_PATH="coverage/Python_Course$ordinal_numbers.coverage" NAME="ordinal_numbers Coverage Results" MODIFIED="1722288056321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5" />
+    <SUITE FILE_PATH="coverage/Python_Course$3_2_greetings.coverage" NAME="3-2.greetings Coverage Results" MODIFIED="1724235251471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 3 - Introducing lists" />
     <SUITE FILE_PATH="coverage/Python_Course$people.coverage" NAME="people Coverage Results" MODIFIED="1722372120672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
+    <SUITE FILE_PATH="coverage/Python_Course$ordinal_numbers.coverage" NAME="ordinal_numbers Coverage Results" MODIFIED="1722288056321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5" />
     <SUITE FILE_PATH="coverage/Python_Course$summing_a_million.coverage" NAME="summing_a_million Coverage Results" MODIFIED="1722279232749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
     <SUITE FILE_PATH="coverage/Python_Course$addition.coverage" NAME="addition Coverage Results" MODIFIED="1723058065569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10" />
     <SUITE FILE_PATH="coverage/Python_Course$battery_upgrade.coverage" NAME="battery_upgrade Coverage Results" MODIFIED="1722459702313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9" />
@@ -186,9 +200,10 @@
     <SUITE FILE_PATH="coverage/Python_Course$checking_usernames.coverage" NAME="checking_usernames Coverage Results" MODIFIED="1722287870273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5" />
     <SUITE FILE_PATH="coverage/Python_Course$pets.coverage" NAME="pets Coverage Results" MODIFIED="1722374387855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
     <SUITE FILE_PATH="coverage/Python_Course$rivers.coverage" NAME="rivers Coverage Results" MODIFIED="1722370953938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
-    <SUITE FILE_PATH="coverage/Python_Course$number_served.coverage" NAME="number_served Coverage Results" MODIFIED="1722441707748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9" />
     <SUITE FILE_PATH="coverage/Python_Course$2_4_name_cases.coverage" NAME="2-4.name_cases Coverage Results" MODIFIED="1724192030676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 2 - Variables and simple data types" />
+    <SUITE FILE_PATH="coverage/Python_Course$number_served.coverage" NAME="number_served Coverage Results" MODIFIED="1722441707748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9" />
     <SUITE FILE_PATH="coverage/Python_Course$learning_c.coverage" NAME="learning_c Coverage Results" MODIFIED="1722520588315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10" />
+    <SUITE FILE_PATH="coverage/Python_Course$3_5_changing_guest_list.coverage" NAME="3-5.changing_guest_list Coverage Results" MODIFIED="1724235827415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 3 - Introducing lists" />
     <SUITE FILE_PATH="coverage/Python_Course$addition_calculator.coverage" NAME="addition_calculator Coverage Results" MODIFIED="1723062526109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10" />
     <SUITE FILE_PATH="coverage/Python_Course$2_3_personal_message.coverage" NAME="2-3.personal_message Coverage Results" MODIFIED="1724191959558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 2 - Variables and simple data types" />
     <SUITE FILE_PATH="coverage/Python_Course$users.coverage" NAME="users Coverage Results" MODIFIED="1722438206242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9" />
@@ -208,6 +223,7 @@
     <SUITE FILE_PATH="coverage/Python_Course$2_1_simple_message.coverage" NAME="2-1.simple_message Coverage Results" MODIFIED="1724191727465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 2 - Variables and simple data types" />
     <SUITE FILE_PATH="coverage/Python_Course$counting_to_twenty.coverage" NAME="counting_to_twenty Coverage Results" MODIFIED="1722279113777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
     <SUITE FILE_PATH="coverage/Python_Course$.coverage" NAME=" Coverage Results" MODIFIED="1723103425758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_11/tests" />
+    <SUITE FILE_PATH="coverage/Python_Course$3_3_your_own_list.coverage" NAME="3-3.your_own_list Coverage Results" MODIFIED="1724235465019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 3 - Introducing lists" />
     <SUITE FILE_PATH="coverage/Python_Course$one_million.coverage" NAME="one_million Coverage Results" MODIFIED="1722279160329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
     <SUITE FILE_PATH="coverage/Python_Course$slices.coverage" NAME="slices Coverage Results" MODIFIED="1722280361894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_4" />
     <SUITE FILE_PATH="coverage/Python_Course$favourite_number.coverage" NAME="favourite_number Coverage Results" MODIFIED="1722354371940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
@@ -225,7 +241,7 @@
     <SUITE FILE_PATH="coverage/Python_Course$2_7_stripping_names.coverage" NAME="2-7.stripping_names Coverage Results" MODIFIED="1724192630499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 2 - Variables and simple data types" />
     <SUITE FILE_PATH="coverage/Python_Course$lottery.coverage" NAME="lottery Coverage Results" MODIFIED="1722465701488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9" />
     <SUITE FILE_PATH="coverage/Python_Course$person.coverage" NAME="person Coverage Results" MODIFIED="1722354226067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6" />
-    <SUITE FILE_PATH="coverage/Python_Course$1_2_hello_world.coverage" NAME="1-2.hello_world Coverage Results" MODIFIED="1724191371333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 1 - Getting started" />
+    <SUITE FILE_PATH="coverage/Python_Course$1_2_hello_world.coverage" NAME="1-2.hello_world Coverage Results" MODIFIED="1724235244209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 1 - Getting started" />
     <SUITE FILE_PATH="coverage/Python_Course$hello_admin.coverage" NAME="hello_admin Coverage Results" MODIFIED="1722287580190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5" />
   </component>
 </project>
